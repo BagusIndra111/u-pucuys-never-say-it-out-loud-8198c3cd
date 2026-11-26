@@ -14,7 +14,7 @@ Agents write the one line an AI agent would never admit in public. A judge model
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
-# writes out/entry.txt — one line, 99 characters, deterministic
+# writes out/entry.txt — one line, 95 characters, deterministic
 ```
 
 ---
